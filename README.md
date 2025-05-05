@@ -1,24 +1,11 @@
 # Online Equipment Booking System
 
-## Description
-
-The **Online Equipment Booking System** is a web-based application designed for the efficient management and booking of equipment at universities. It helps students, faculty, and staff reserve equipment across various departments and manage bookings seamlessly.
-
-## Features
-
-- **User Registration & Login**: Users can securely register and log in to the system.
-- **Equipment Reservation**: View and reserve available equipment.
-- **Admin Panel**: Admins can manage equipment, approve or cancel reservations, and track all bookings.
-- **Notifications**: Automated notifications for booking confirmations and reminders.
-- **Search & Filter**: Filter and search equipment based on type, availability, and department.
-
-## Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript (Optional: React.js)
-- **Backend**: Python (Flask/Django)
-- **Database**: MySQL/PostgreSQL
-- **Authentication**: JWT (JSON Web Tokens)
-- **Deployment**: Heroku, AWS, or DigitalOcean (Choose based on your preference)
+Online Equipment Booking System
+(RealTime-Project Facilitating efficient management of equipment reservations across multiple departments.)
+– Developed a user-friendly web interface for equipment reservations, incorporating user authentication, session
+management, and a faculty approval workflow for booking requests. Integrated SMTP mailing service for realtime email notifications on booking status updates.
+– Tools & technologies used: PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, jQuery, AJAX, SMTP Mailing
+Service (PHPMailer)
 
 - ![_- visual selection (2)](https://github.com/user-attachments/assets/ad85a352-eec0-4ad1-bc3f-1a440aad376c)
 
